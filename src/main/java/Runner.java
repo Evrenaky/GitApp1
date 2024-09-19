@@ -6,6 +6,8 @@ public class Runner {
         System.out.println("version 3");
         System.out.println("version 4");
 //degisiklik 1
+        //degisikli2
+        //degisiklik 3
 
     }
 }
